@@ -1,3 +1,6 @@
-Capstone Project
+COURSERA CAPSTONE PROJECT
 
-Courseera - Applied Data science (20 April)  
+Author - Abhinav Paul || Created - 20/04/2020
+
+Courseera - Applied Data science specialization
+
