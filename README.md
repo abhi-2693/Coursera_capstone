@@ -1,7 +1,4 @@
-Capstone Project
-
-
-COURSERA CAPSTONE
+COURSERA CAPSTONE PROJECT
 
 Author - Abhinav Paul || Created - 20/04/2020
 
